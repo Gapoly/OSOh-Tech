@@ -6,4 +6,6 @@ Documentation servant à montrer le parcours que j'ai suivie pour monter mon sit
 - Apache2
 - Snort (en cours)
 - Fail2ban
-- Crowdsec (a voir)
+- Crowdsec (à voir)
+- HTML/CSS
+- PHP (à voir)
